@@ -74,4 +74,4 @@ How to use:
 Roles:
     Aspenle: he made the backtrack algo, all the mlx part, the text editor, all the display
 
-    Tbelard: he made the hunt and kill, binary tree and prim's algos, he made the parser and the pydantic verifications 
+    niglo: he made the hunt and kill, binary tree and prim's algos, he made the parser and the pydantic verifications 
