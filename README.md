@@ -1,5 +1,5 @@
 _This project has been created as part
-of the 42 curriculum by [aspenle[, tbelard]]_
+of the 42 curriculum by aspenle, t
 
 
 Description project:
